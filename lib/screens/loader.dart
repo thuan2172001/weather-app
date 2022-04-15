@@ -63,10 +63,6 @@ class _LoaderState extends State<Loader> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      decoration: BoxDecoration(
-        image: DecorationImage(
-            image: AssetImage('images/thunderstorm.jpg'), fit: BoxFit.cover),
-      ),
       child: Scaffold(
         backgroundColor: Colors.white12,
         body: Center(

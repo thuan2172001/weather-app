@@ -52,18 +52,6 @@ class _HomeState extends State<Home> {
     sunrise = data['sys']['sunrise'];
     sunset = data['sys']['sunset'];
 
-    if (main == 'Clear') {
-      image = 'clear';
-    } else if (main == 'Rain') {
-      image = 'rain';
-    } else if (main == 'Snow') {
-      image = 'snow';
-    } else if (main == 'Thunderstorm') {
-      image = 'thunderstorm';
-    } else {
-      image = 'clouds';
-    }
-
     String forecastIconFunc(String forecastMain) {
       if (forecastMain == 'Clear') {
         return forecastIcon = 'solar';
