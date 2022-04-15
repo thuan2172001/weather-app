@@ -42,7 +42,7 @@ Future getWeatherOfCity() async {
 ```
 
 App preview
-![alt text](./screenshots/Screenshot_1.png)
-![alt text](./screenshots/Screenshot_2.png)
-![alt text](./screenshots/Screenshot_3.png)
-![alt text](./screenshots/Screenshot_4.png)
+<img src="./screenshots/Screenshot_1.png" alt="drawing" width="200"/>
+<img src="./screenshots/Screenshot_2.png" alt="drawing" width="200"/>
+<img src="./screenshots/Screenshot_3.png" alt="drawing" width="200"/>
+<img src="./screenshots/Screenshot_4.png" alt="drawing" width="200"/>
