@@ -151,8 +151,7 @@ class _SearchState extends State<Search> {
                             ),
                             child: Text(
                               'Search',
-                              style: TextStyle(
-                                  fontFamily: 'Ubuntu', color: Colors.black),
+                              style: TextStyle(color: Colors.black),
                             ),
                           ),
                         ),
